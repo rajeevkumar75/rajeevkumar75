@@ -71,7 +71,7 @@ I’m deeply passionate about **Data Science, Machine Learning, and building rea
 ---
 
 ## 👀 Profile Views  
-[![](https://visitcount.itsvg.in/api?id=rajeevkumar75&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=rajeevkumar75&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
