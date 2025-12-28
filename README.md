@@ -27,8 +27,7 @@ I’m deeply passionate about **Data Science, Machine Learning, and building rea
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rajeev-kumar-685326277)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krrajeev0000000000@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rajeev-kumar-685326277)               [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krrajeev0000000000@gmail.com)
 
 ---
 
