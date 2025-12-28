@@ -70,12 +70,7 @@ I’m deeply passionate about **Data Science, Machine Learning, and building rea
 
 ---
 
-## 👀 Profile Views  
-![Profile Views](https://komarev.com/ghpvc/?username=rajeevkumar75&label=Profile%20views&color=0e75b6&style=flat)
-
----
-
 ### ⭐ Let’s Collaborate  
 If you’re interested in **Data Science, ML projects, or research**, feel free to connect 🚀  
 
-> *“Turning data into insights, and insights into impact.”*
+> *“Turning data into insights, and insights into impact.✌️”*
