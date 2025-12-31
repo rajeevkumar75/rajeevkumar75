@@ -22,7 +22,7 @@ I’m deeply passionate about **Data Science, Machine Learning, and building rea
 - 🎵 **Music Recommendation System (NLP-based)** – TF-IDF + Cosine Similarity  
 - 📉 **Employee Attrition Cost Estimation** – Regression modeling  
 - 📈 **Sales Data Visualization App** – Streamlit + EDA  
-- 🧪 Regular Kaggle experimentation  
+- 🧪 Regular Kaggle experimentation
 
 ---
 
