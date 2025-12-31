@@ -1,5 +1,5 @@
 # 💫 About Me  
-Hi 👋 I’m **Rajeev Kumar**, a **2nd-year Computer Science & Data Analytics student at IIT Patna** 🎓  
+Hi 👋 I’m **Rajeev Kumar**, a **3rd-year Computer Science & Data Analytics student at IIT Patna** 🎓  
 I’m deeply passionate about **Data Science, Machine Learning, and building real-world, data-driven solutions**.
 
 - 🔍 Strong foundation in **Statistics, Probability & Data Analysis**  
@@ -10,7 +10,7 @@ I’m deeply passionate about **Data Science, Machine Learning, and building rea
 ---
 
 ## 🧠 What I’m Currently Learning  
-- Advanced **Machine Learning Algorithms & Feature Engineering**  
+- **Generative AI**  
 - **SQL (Advanced Queries & Optimization)**  
 - **MLOps Basics** (Model tracking, deployment, versioning)  
 - **Cloud & Scalable Data Systems**  
