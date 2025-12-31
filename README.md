@@ -10,9 +10,9 @@ I’m deeply passionate about **Data Science, Machine Learning, and building rea
 ---
 
 ## 🧠 What I’m Currently Learning  
-- **Generative AI**  
-- **SQL (Advanced Queries & Optimization)**  
-- **MLOps Basics** (Model tracking, deployment, versioning)  
+- **Generative AI & LLM-based application**  
+- **Advance SQL(Comples queries, performace optimization**  
+- **MLOps fundamentals** (Model tracking, deployment, versioning)  
 - **Cloud & Scalable Data Systems**  
 
 ---
