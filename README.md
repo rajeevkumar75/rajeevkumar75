@@ -5,7 +5,7 @@ I’m deeply passionate about **Data Science, Machine Learning, and building rea
 - 🔍 Strong foundation in **Statistics, Probability & Data Analysis**  
 - 🤖 Interested in **Machine Learning, Deep Learning & NLP**  
 - 🚀 Actively building projects, participating in hackathons & sharing learnings  
-- 📈 Goal: To become an **industry-ready Data Scientist / ML Engineer**  
+- 📈 Goal: To become an **industry-ready Data Scientist / ML Engineer** 
 
 ---
 
