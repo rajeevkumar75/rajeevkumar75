@@ -69,7 +69,7 @@ I’m deeply passionate about **Data Science, Machine Learning, and building rea
 
 ---
 
-### ⭐ Let’s Collaborate  
-If you’re interested in **Data Science, ML projects, or research**, feel free to connect 🚀  
+### Let’s Collaborate  
+If you’re interested in **Data Science, ML projects, or research**, feel free to connect 
 
 > *“Turning data into insights, and insights into impact.✌️”*
