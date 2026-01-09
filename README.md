@@ -10,8 +10,6 @@
 </p>
 
 ---
-
-Hi 👋 I’m **Rajeev Kumar**, a **3rd-year Computer Science & Data Analytics student at IIT Patna** 🎓  
 I’m deeply passionate about **Data Science, Machine Learning, and building real-world, data-driven solutions**.
 
 - 🔍 Strong foundation in **Statistics, Probability & Data Analysis**  
