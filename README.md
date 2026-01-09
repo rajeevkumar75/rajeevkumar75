@@ -90,11 +90,6 @@ I’m deeply passionate about **Data Science, Machine Learning, and building rea
 
 ---
 
-<!-- ================= SNAKE ANIMATION ================= -->
-![snake animation](https://raw.githubusercontent.com/rajeevkumar75/rajeevkumar75/output/github-contribution-grid-snake.svg)
-
----
-
 ### 🤝 Let’s Collaborate  
 If you’re interested in **Data Science, ML projects, research, or hackathons**, feel free to connect 🚀  
 
