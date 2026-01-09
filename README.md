@@ -1,4 +1,7 @@
 # 💫 About Me  
+
+ ![snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+
 Hi 👋 I’m **Rajeev Kumar**, a **3rd-year Computer Science & Data Analytics student at IIT Patna** 🎓  
 I’m deeply passionate about **Data Science, Machine Learning, and building real-world, data-driven solutions**.
 
