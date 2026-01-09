@@ -3,12 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Rajeev+Kumar;3rd-Year+CS+%26+Data+Analytics+Student+@+IIT+Patna;Aspiring+Data+Scientist+%7C+ML+Engineer;I+Build+ML+Projects+That+Solve+Real+Problems" />
 </p>
-
-<!-- ================= BANNER GIF ================= -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="520" />
-</p>
-
 ---
 I’m deeply passionate about **Data Science, Machine Learning, and building real-world, data-driven solutions**.
 
