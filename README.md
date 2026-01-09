@@ -1,6 +1,16 @@
-# 💫 About Me  
+<!-- ================= TYPING ANIMATION HEADER ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Rajeev+Kumar;3rd-Year+CS+%26+Data+Analytics+Student+@+IIT+Patna;Aspiring+Data+Scientist+%7C+ML+Engineer;I+Build+ML+Projects+That+Solve+Real+Problems" />
+</p>
 
- ![snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+<!-- ================= BANNER GIF ================= -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="520" />
+</p>
+
+---
+
+# 💫 About Me  
 
 Hi 👋 I’m **Rajeev Kumar**, a **3rd-year Computer Science & Data Analytics student at IIT Patna** 🎓  
 I’m deeply passionate about **Data Science, Machine Learning, and building real-world, data-driven solutions**.
@@ -8,15 +18,15 @@ I’m deeply passionate about **Data Science, Machine Learning, and building rea
 - 🔍 Strong foundation in **Statistics, Probability & Data Analysis**  
 - 🤖 Interested in **Machine Learning, Deep Learning & NLP**  
 - 🚀 Actively building projects, participating in hackathons & sharing learnings  
-- 📈 Goal: To become an **industry-ready Data Scientist / ML Engineer** 
+- 📈 Goal: To become an **industry-ready Data Scientist / ML Engineer**
 
 ---
 
 ## 🧠 What I’m Currently Learning  
-- **Generative AI & LLM-based application**  
-- **Advance SQL(Comples queries, performace optimization**  
+- **Generative AI & LLM-based applications**  
+- **Advanced SQL** (Complex queries, performance optimization)  
 - **MLOps fundamentals** (Model tracking, deployment, versioning)  
-- **Cloud & Scalable Data Systems**  
+- **Cloud & Scalable Data Systems**
 
 ---
 
@@ -29,8 +39,17 @@ I’m deeply passionate about **Data Science, Machine Learning, and building rea
 
 ---
 
+## ⚡ Fun & Interesting Stuff About Me  
+- 🧠 I enjoy turning **raw data into stories**  
+- 🧪 I believe *“a simple baseline beats a complex model without understanding”*  
+- ☕ Debugging + late-night ML experiments = productivity  
+- 🎯 Long-term vision: **AI systems that actually help people**
+
+---
+
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rajeev-kumar-685326277)               [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krrajeev0000000000@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajeev-kumar-685326277)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krrajeev0000000000@gmail.com)
 
 ---
 
@@ -70,9 +89,14 @@ I’m deeply passionate about **Data Science, Machine Learning, and building rea
 ![](https://nirzak-streak-stats.vercel.app/?user=rajeevkumar75&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevkumar75&theme=dark&hide_border=false&layout=compact)
 
----                                  
+---
 
-### Let’s Collaborate  
-If you’re interested in **Data Science, ML projects, or research**, feel free to connect
+<!-- ================= SNAKE ANIMATION ================= -->
+![snake animation](https://raw.githubusercontent.com/rajeevkumar75/rajeevkumar75/output/github-contribution-grid-snake.svg)
 
-> *“Turning data into insights, and insights into impact.✌️”*
+---
+
+### 🤝 Let’s Collaborate  
+If you’re interested in **Data Science, ML projects, research, or hackathons**, feel free to connect 🚀  
+
+> *“Turning data into insights, and insights into impact.”* ✨
