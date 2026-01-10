@@ -1,109 +1,103 @@
-<!-- ================= HERO ================= -->
+<!-- ========================= -->
+<!-- 🌌 Animated Header -->
+<!-- ========================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rajeev%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Rajeev%20Kumar&fontAlign=50&fontAlignY=40&color=0:0F2027,50:203A43,100:2C5364&fontColor=ffffff" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Rajeev+Kumar;3rd-Year+CS+%26+Data+Analytics+Student+@+IIT+Patna;Aspiring+Data+Scientist+%7C+ML+Engineer;Building+ML+Projects+That+Solve+Real+Problems" />
-</p>
-
----
-
-## 💫 About Me  
-
-I’m deeply passionate about **Data Science, Machine Learning, and building real-world, data-driven solutions**.
-
-- 🔍 Strong foundation in **Statistics, Probability & Data Analysis**
-- 🤖 Interested in **Machine Learning, Deep Learning & NLP**
-- 🚀 Actively building projects & participating in hackathons
-- 🎯 Goal: **Industry-ready Data Scientist / ML Engineer**
-
----
-
-## 🧠 Currently Learning  
-
-- **Generative AI & LLM-based applications**
-- **Advanced SQL** (optimization & complex queries)
-- **MLOps fundamentals**
-- **Cloud & scalable data systems**
+<!-- ========================= -->
+<!-- ⌨️ Typing Animation -->
+<!-- ========================= -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,docker,aws,azure&theme=dark" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Rajeev+Kumar;Data+Science+%26+ML+Enthusiast;3rd+Year+Student+at+IIT+Patna;Building+Real-World+AI+Projects;Learning+Everyday+🚀" />
 </p>
 
 ---
 
-## 🏗️ Projects & Experience  
+## 🧑‍💻 About Me
 
-- 📊 **Customer Churn Prediction** — Classification + feature engineering  
-- 🎵 **Music Recommendation System** — NLP + TF-IDF + Cosine Similarity  
-- 📉 **Employee Attrition Cost Estimation** — Regression modeling  
-- 📈 **Sales Data Visualization App** — Streamlit + EDA  
-- 🧪 Continuous **Kaggle experimentation**
-
----
-
-## ⚡ Fun Facts  
-
-- 🧠 I enjoy turning **raw data into stories**
-- 🧪 *Simple models with understanding > complex black boxes*
-- ☕ Late-night ML debugging lover
-- 🌍 Vision: **AI that actually helps people**
-
----
-
-## 💻 Tech Stack  
-
-### 🧑‍💻 Programming & Databases  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,mongodb&theme=dark" />
-</p>
-
-### 🤖 Machine Learning & AI  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=scikitlearn,tensorflow,pytorch,keras&theme=dark" />
-</p>
-
-### 📊 Data Analysis & Visualization  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,plotly&theme=dark" />
-</p>
-
-### ☁️ Tools & Platforms  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,azure,streamlit&theme=dark" />
+🎓 <b>3rd-year Computer Science & Data Analytics student at IIT Patna</b><br>
+🤖 Passionate about <b>Data Science, Machine Learning & AI</b><br>
+📊 Love turning <b>data into actionable insights</b><br>
+🚀 Building projects, participating in hackathons & sharing learnings
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 🛠️ Tech Stack (Animated Icons)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajeevkumar75&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeevkumar75&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://skillicons.dev/icons?i=python,sql,r,java,c,cpp,html,css,js,git,github,linux,aws&perline=7" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevkumar75&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv,streamlit,tableau,powerbi&perline=7" />
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+## 📈 GitHub Stats (Live & Animated)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rajeev-kumar-685326277" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=RajeevKumar&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RajeevKumar&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajeevKumar&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🚀 Projects & Interests
+
+- 📌 Customer Churn Prediction  
+- 📌 AI Music Recommendation System  
+- 📌 Data Analytics Dashboards  
+- 📌 Machine Learning Algorithms  
+- 📌 Streamlit & End-to-End ML Apps  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:krrajeev0000000000@gmail.com">
+  <a href="https://github.com/RajeevKumar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
+## 👀 Profile Views Counter (Live)
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=RajeevKumar&label=Profile%20Views&color=00C896&style=flat" />
 </p>
 
-> ✨ *Turning data into insights, and insights into impact.*
+---
+
+## ✨ Fun Quote (Auto-Updating)
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+<!-- ========================= -->
+<!-- 🌊 Animated Footer -->
+<!-- ========================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2C5364,50:203A43,100:0F2027"/>
+</p>
