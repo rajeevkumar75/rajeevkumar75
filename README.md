@@ -90,7 +90,6 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajeevkumar75&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=rajeevkumar75&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
