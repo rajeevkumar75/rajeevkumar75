@@ -19,10 +19,6 @@
 - 🚀 Actively building projects, hackathons & sharing learnings
 - 🎯 Goal: **Industry-ready Data Scientist / ML Engineer**
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajeevkumar75&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
 ---
 
 ## 🧠 What I’m Currently Learning  
