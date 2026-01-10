@@ -26,9 +26,6 @@
 ---
 
 ## 🧠 What I’m Currently Learning  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,docker,aws,azure&theme=dark" />
-</p>
 
 - ⚡ **Generative AI & LLM-based applications**
 - 🧠 **Advanced SQL** (optimization & complex queries)
