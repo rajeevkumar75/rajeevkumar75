@@ -10,7 +10,7 @@
 
 <table align="center">
   <tr>
-    <td width="50%">
+    <td width="55%">
       <p>I’m deeply passionate about <b>Data Science, Machine Learning, and building real-world, data-driven solutions</b>.</p>
       <ul>
         <li>🔍 Strong foundation in <b>Stats, Probability & Data Analysis</b></li>
@@ -19,8 +19,8 @@
         <li>📈 Goal: To become an <b>Industry-leading AI Researcher</b></li>
       </ul>
     </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevkumar75&theme=tokyonight&layout=compact&hide_border=true" alt="Top Langs" />
+    <td width="45%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevkumar75&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -30,7 +30,7 @@
 ## 🧠 What I’m Currently Learning  
 - 🌌 **Generative AI & LLMs:** Building RAG-based applications.
 - ⚡ **Advanced SQL:** Performance tuning and complex window functions.
-- 🛠️ **MLOps:** Moving models from notebooks to production using Docker & CI/CD.
+- 🛠️ **MLOps:** Moving models from notebooks to production using Docker.
 
 ---
 
@@ -47,17 +47,17 @@
 ## 💻 Tech Stack  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,r,mysql,mongodb,sklearn,tensorflow,pytorch,git,github,docker,aws,azure,scipy&perline=7" />
+  <img src="https://skillicons.dev/icons?i=py,r,mysql,mongodb,sklearn,tensorflow,pytorch,git,github,docker,aws,azure,latex&perline=6" />
 </div>
 
 <br/>
 
-<details>
-  <summary><b>📊 Data Visualization & Tools</b></summary>
+<details align="center">
+  <summary><b>📊 Data Visualization & More Tools</b></summary>
   <br/>
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=python&logoColor=black" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
@@ -65,25 +65,23 @@
 
 ---
 
-## 📊 Performance Metrics  
+## 📊 GitHub Performance Metrics  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajeevkumar75&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rajeev's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeevkumar75&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajeevkumar75&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Main Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeevkumar75&theme=tokyonight&hide_border=true" alt="Streak Stats" height="180px" />
 </div>
 
-### 🐍 Contribution Activity  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajeevkumar75/rajeevkumar75/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajeevkumar75/rajeevkumar75/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rajeevkumar75/rajeevkumar75/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajeevkumar75&theme=tokyonight" width="100%" />
+</div>
 
 ---
 
 ## 🌐 Connect With Me  
 <div align="center">
-  <a href="https://linkedin.com/in/rajeev-kumar-685326277">
+  <a href="https://linkedin.com/in/rajeev-kumar-685326277" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:krrajeev0000000000@gmail.com">
@@ -92,5 +90,9 @@
 </div>
 
 <br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=00d2ff&height=30&section=footer" width="100%"/>
+</p>
 
 > *“Turning data into insights, and insights into impact.”* ✨
