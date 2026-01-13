@@ -21,15 +21,6 @@
 
 ---
 
-## 🧠 What I’m Currently Learning  
-
-- ⚡ **Generative AI & LLM-based applications**
-- 🧠 **Advanced SQL** (optimization & complex queries)
-- 🔄 **MLOps fundamentals** (tracking, deployment, versioning)
-- ☁️ **Cloud & scalable data systems**
-
----
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeevkumar75&theme=react-dark&hide_border=true" />
 </p>
