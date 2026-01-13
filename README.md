@@ -30,28 +30,9 @@
 
 ---
 
-## 🏗️ Projects & Experience  
-
-✨ *Turning theory into production-ready solutions*
-
-- 📊 **Customer Churn Prediction** — ML classification + feature engineering  
-- 🎵 **Music Recommendation System** — NLP + TF-IDF + Cosine Similarity  
-- 📉 **Employee Attrition Cost Estimation** — Regression modeling  
-- 📈 **Sales Data Visualization App** — Streamlit + EDA  
-- 🧪 Consistent **Kaggle experimentation**
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeevkumar75&theme=react-dark&hide_border=true" />
 </p>
-
----
-
-## ⚡ Fun & Interesting Stuff  
-
-- 🧠 I love turning **raw data into meaningful stories**
-- 🧪 *“A simple baseline beats a complex model without understanding”*
-- ☕ Late-night debugging + ML experiments = ❤️
-- 🌍 Vision: **AI systems that genuinely help people**
 
 ---
 
@@ -83,16 +64,6 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rajeevkumar75&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
 
 ---
 
