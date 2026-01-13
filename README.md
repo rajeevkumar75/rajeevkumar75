@@ -9,8 +9,6 @@
 
 ---
 
-## 💫 About Me  
-
 🌱 I’m deeply passionate about **Data Science, Machine Learning, and building real-world, data-driven solutions**.
 
 ✨ **What defines me**
