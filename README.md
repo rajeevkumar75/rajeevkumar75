@@ -1,4 +1,3 @@
-<!-- ======================= HERO SECTION ======================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rajeev%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
@@ -31,7 +30,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🤖 Machine Learning & AI  
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
