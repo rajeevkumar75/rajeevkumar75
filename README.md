@@ -22,7 +22,7 @@ I’m deeply passionate about **Data Science, Machine Learning, and building rea
 
 ---
 
-## Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+# Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 
 ### Programming & Databases  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -52,7 +52,7 @@ I’m deeply passionate about **Data Science, Machine Learning, and building rea
 
 ---
 
-## Connect With Me  
+# Connect With Me  
 
 <p align="center">
   <a href="www.linkedin.com/in/rajeev-kumar-685326277">
@@ -65,7 +65,7 @@ I’m deeply passionate about **Data Science, Machine Learning, and building rea
 
 ---
 
-## Let’s Collaborate  
+# Let’s Collaborate  
 
 If you're interested in **Data Science, ML projects, research, or hackathons**, feel free to connect.
 
