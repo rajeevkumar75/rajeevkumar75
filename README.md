@@ -1,3 +1,4 @@
+---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=50C878&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Rajeev+Kumar;3rd-Year+CS+%26+Data+Analytics+Student+@+IIT+Patna;Aspiring+Data+Scientist+%7C+ML+Engineer;I+Build+ML+Projects+That+Solve+Real+Problems" />
 </p>
