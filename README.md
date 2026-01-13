@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rajeev%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=50C878&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Rajeev+Kumar;3rd-Year+CS+%26+Data+Analytics+Student+@+IIT+Patna;Aspiring+Data+Scientist+%7C+ML+Engineer;I+Build+ML+Projects+That+Solve+Real+Problems" />
 </p>
 
@@ -70,9 +66,5 @@
 ## 🤝 Let’s Collaborate  
 
 🚀 If you're interested in **Data Science, ML projects, research, or hackathons**, feel free to connect.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
-</p>
 
 > ✨ *“Turning data into insights, and insights into impact.”*
