@@ -64,6 +64,10 @@ I’m deeply passionate about **Data Science, Machine Learning, and building rea
 
 ---
 
+<img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=zanepearton&theme=merko" alt="Zane's Contribution Streak"/>
+
+---
+
 ## Let’s Collaborate  
 
 If you're interested in **Data Science, ML projects, research, or hackathons**, feel free to connect.
